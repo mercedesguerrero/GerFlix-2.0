@@ -8,3 +8,4 @@ typedef struct
 }eUsuario_Serie;
 
 void mostrarListaUsuarios(eUsuario[], eSerie[], int);
+void mostrarListaSerieConUsuarios(eUsuario[], eSerie[], int);

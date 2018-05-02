@@ -33,5 +33,19 @@ void inicializarUsuariosHardCode(eUsuario usuarios[])
     }
 }
 
+void mostrarListadoDeUsuarios(eUsuario usuarios[], int cant)
+{
+    int i;
+    printf("%5s %10s\n","\nidUsuario","Nombre");
+
+/**< Recorre y si el estado es distinto de 0 la muestra */
+    for(i=0; i<cant; i++)
+    {
+        if(usuarios[i].estado==1)
+        {
+            printf("%5d %13s\n", usuarios[i].idUsuario, usuarios[i].nombre);
+        }
+    }
+}
 
 

@@ -24,3 +24,28 @@
 
 1524861734 c:\test\mercedes guerrero\gerflix 2.0\usuario_serie.h
 
+1525220649 source:c:\users\mechu\documents\gerflix 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Serie.h"
+	"Usuario.h"
+
+1524862949 c:\users\mechu\documents\gerflix 2.0\serie.h
+
+1525219090 c:\users\mechu\documents\gerflix 2.0\usuario.h
+
+1525220030 source:c:\users\mechu\documents\gerflix 2.0\serie.c
+	"Serie.h"
+	<string.h>
+
+1525220102 source:c:\users\mechu\documents\gerflix 2.0\usuario.c
+	"Usuario.h"
+
+1525220546 source:c:\users\mechu\documents\gerflix 2.0\usuario_serie.c
+	"Usuario.h"
+	"Serie.h"
+	"Usuario_Serie.h"
+	<string.h>
+
+1525220649 c:\users\mechu\documents\gerflix 2.0\usuario_serie.h
+
